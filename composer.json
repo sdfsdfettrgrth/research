@@ -1,0 +1,10 @@
+{
+    "name": "root/research",
+    "authors": [
+        {
+            "name": "User",
+            "email": "mail@mail.ru"
+        }
+    ],
+    "require": {}
+}
